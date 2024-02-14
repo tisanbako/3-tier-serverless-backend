@@ -1,7 +1,7 @@
 import json
 import boto3
 
-# Initialize DynamoDB client
+# Initialize DynamoDB client.
 dynamodb = boto3.resource('dynamodb')
 table_name = 'Students'  # Change this to your DynamoDB table name
 table = dynamodb.Table(table_name)
