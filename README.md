@@ -1,6 +1,6 @@
 # Three-Tier Architecture with Serverless Backend 
 
-This project demonstrates the implementation of a Three-Tier Architecture with a Serverless Backend, leveraging various AWS services to create a scalable and efficient system.
+## This project demonstrates the implementation of a Three-Tier Architecture with a Serverless Backend, leveraging various AWS services to create a scalable and efficient system.
 ![alt text](https://github.com/tisanbako/3-tier-serverless-backend/blob/main/e-tier-serverless.gif)
 
 # Components Utilized
